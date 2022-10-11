@@ -5,6 +5,7 @@ Java Servlet Technology
 Compulsory
 - Create a servlet that receives a word and returns an HTML page containing the letters of that word presented as an ordered list.
 The location of the solution: src/main/java/com/firstlab/lab1tj/OrderLetters.java
+
 Homework
 - It receives an integer as a parameter, called size, and it returns all the permutations of length size of the given letters. If the size is 0 (default), it will return all the sequences.
 - If the servlet has access to a server-side file containing a list of acceptable words (a dictionary), it will return only the sequences forming valid words.
